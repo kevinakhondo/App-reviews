@@ -1,0 +1,161 @@
+reviewId,userName,content,score,thumbsUpCount,at,appVersion,bank_name,bank_key,country,scraped_at
+equity_bank_0,User0,Excellent app,5,1,2026-03-12 17:08:13.618264,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618279
+equity_bank_1,User1,Very slow,1,2,2026-03-15 17:08:13.618291,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618295
+equity_bank_2,User2,Best bank app,5,15,2026-03-15 17:08:13.618302,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618305
+equity_bank_3,User3,Okay app,3,4,2026-03-02 17:08:13.618309,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618311
+equity_bank_4,User4,Works sometimes,3,3,2026-03-15 17:08:13.618315,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618317
+equity_bank_5,User5,Very slow,2,7,2026-03-21 17:08:13.618322,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618324
+equity_bank_6,User6,Security issues,2,15,2026-03-17 17:08:13.618328,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618330
+equity_bank_7,User7,Okay app,3,4,2026-03-04 17:08:13.618333,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618335
+equity_bank_8,User8,Excellent app,4,11,2026-03-15 17:08:13.618339,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618341
+equity_bank_9,User9,Security issues,2,2,2026-03-20 17:08:13.618344,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618346
+equity_bank_10,User10,Love it,5,12,2026-03-18 17:08:13.618350,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618355
+equity_bank_11,User11,Security issues,2,1,2026-03-11 17:08:13.618360,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618362
+equity_bank_12,User12,Fast and secure,4,2,2026-03-13 17:08:13.618365,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618367
+equity_bank_13,User13,Excellent app,4,10,2026-03-07 17:08:13.618371,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618373
+equity_bank_14,User14,Security issues,1,14,2026-03-18 17:08:13.618376,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618378
+equity_bank_15,User15,Average experience,3,15,2026-03-06 17:08:13.618381,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618383
+equity_bank_16,User16,Great design,5,12,2026-03-12 17:08:13.618386,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618388
+equity_bank_17,User17,Great design,5,2,2026-03-16 17:08:13.618392,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618393
+equity_bank_18,User18,App crashes,2,9,2026-03-26 17:08:13.618397,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618398
+equity_bank_19,User19,Great design,5,13,2026-03-24 17:08:13.618402,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618404
+equity_bank_20,User20,Love it,4,0,2026-03-16 17:08:13.618409,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618411
+equity_bank_21,User21,Very slow,2,9,2026-03-11 17:08:13.618415,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618416
+equity_bank_22,User22,Love it,4,8,2026-03-15 17:08:13.618420,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618422
+equity_bank_23,User23,App crashes,2,8,2026-03-18 17:08:13.618427,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618429
+equity_bank_24,User24,Best bank app,4,4,2026-03-14 17:08:13.618432,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618434
+equity_bank_25,User25,Love it,5,0,2026-03-19 17:08:13.618437,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618439
+equity_bank_26,User26,Excellent app,4,7,2026-03-20 17:08:13.618443,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618444
+equity_bank_27,User27,Basic features,3,3,2026-03-10 17:08:13.618448,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618449
+equity_bank_28,User28,Great design,5,0,2026-03-11 17:08:13.618453,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618455
+equity_bank_29,User29,Basic features,3,12,2026-03-08 17:08:13.618458,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618459
+equity_bank_30,User30,Fast and secure,5,2,2026-03-21 17:08:13.618465,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618466
+equity_bank_31,User31,Fast and secure,4,14,2026-03-19 17:08:13.618470,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618472
+equity_bank_32,User32,Best bank app,5,12,2026-03-15 17:08:13.618475,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618477
+equity_bank_33,User33,Okay app,3,0,2026-03-26 17:08:13.618480,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618482
+equity_bank_34,User34,Basic features,3,6,2026-03-13 17:08:13.618485,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618487
+equity_bank_35,User35,Security issues,2,6,2026-03-05 17:08:13.618490,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618492
+equity_bank_36,User36,Love it,5,10,2026-03-09 17:08:13.618495,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618497
+equity_bank_37,User37,Love it,5,7,2026-03-22 17:08:13.618500,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618502
+equity_bank_38,User38,App crashes,1,13,2026-03-22 17:08:13.618505,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618509
+equity_bank_39,User39,Security issues,2,11,2026-03-05 17:08:13.618513,5.2.1,Equity Bank,equity_bank,Kenya,2026-03-27 17:08:13.618514
+kcb_0,User0,Okay app,3,8,2026-03-05 17:08:13.618522,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618523
+kcb_1,User1,Great design,5,6,2026-03-13 17:08:13.618527,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618529
+kcb_2,User2,Love it,4,9,2026-03-23 17:08:13.618532,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618534
+kcb_3,User3,Basic features,3,2,2026-03-21 17:08:13.618538,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618539
+kcb_4,User4,Basic features,3,9,2026-03-15 17:08:13.618542,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618544
+kcb_5,User5,Love it,5,15,2026-03-18 17:08:13.618547,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618549
+kcb_6,User6,Okay app,3,5,2026-03-07 17:08:13.618554,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618556
+kcb_7,User7,Average experience,3,6,2026-03-22 17:08:13.618559,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618561
+kcb_8,User8,Average experience,3,3,2026-03-08 17:08:13.618564,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618566
+kcb_9,User9,Best bank app,5,2,2026-03-03 17:08:13.618569,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618571
+kcb_10,User10,Best bank app,5,2,2026-03-21 17:08:13.618576,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618578
+kcb_11,User11,Very slow,2,10,2026-03-04 17:08:13.618582,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618583
+kcb_12,User12,Okay app,3,13,2026-03-25 17:08:13.618586,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618588
+kcb_13,User13,Works sometimes,3,8,2026-03-19 17:08:13.618591,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618593
+kcb_14,User14,Basic features,3,0,2026-03-05 17:08:13.618596,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618598
+kcb_15,User15,Security issues,1,5,2026-03-10 17:08:13.618601,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618603
+kcb_16,User16,Terrible service,2,3,2026-03-14 17:08:13.618606,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618608
+kcb_17,User17,Average experience,3,10,2026-03-03 17:08:13.618611,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618613
+kcb_18,User18,App crashes,2,15,2026-03-07 17:08:13.618617,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618618
+kcb_19,User19,Best bank app,4,15,2026-03-19 17:08:13.618622,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618623
+kcb_20,User20,Average experience,3,15,2026-03-06 17:08:13.618630,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618632
+kcb_21,User21,Best bank app,4,12,2026-03-21 17:08:13.618636,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618637
+kcb_22,User22,Basic features,3,10,2026-03-26 17:08:13.618640,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618642
+kcb_23,User23,Excellent app,5,11,2026-03-15 17:08:13.618645,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618647
+kcb_24,User24,Great design,5,5,2026-03-07 17:08:13.618650,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618652
+kcb_25,User25,App crashes,2,13,2026-03-20 17:08:13.618656,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618657
+kcb_26,User26,Okay app,3,2,2026-03-04 17:08:13.618661,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618662
+kcb_27,User27,Fast and secure,4,11,2026-03-26 17:08:13.618666,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618667
+kcb_28,User28,Best bank app,5,9,2026-03-18 17:08:13.618671,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618672
+kcb_29,User29,Terrible service,2,13,2026-03-25 17:08:13.618676,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618678
+kcb_30,User30,Terrible service,1,8,2026-03-02 17:08:13.618683,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618685
+kcb_31,User31,Fast and secure,5,5,2026-03-10 17:08:13.618689,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618690
+kcb_32,User32,Very slow,2,2,2026-03-17 17:08:13.618694,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618695
+kcb_33,User33,Basic features,3,0,2026-03-09 17:08:13.618699,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618700
+kcb_34,User34,Terrible service,2,4,2026-03-15 17:08:13.618704,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618706
+kcb_35,User35,Basic features,3,0,2026-03-16 17:08:13.618709,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618710
+kcb_36,User36,Great design,5,9,2026-03-13 17:08:13.618714,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618715
+kcb_37,User37,Best bank app,4,14,2026-03-22 17:08:13.618720,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618722
+kcb_38,User38,Fast and secure,5,2,2026-03-06 17:08:13.618727,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618729
+kcb_39,User39,Great design,5,7,2026-03-24 17:08:13.618732,5.2.1,KCB Bank,kcb,Kenya,2026-03-27 17:08:13.618734
+gtbank_0,User0,Security issues,1,13,2026-03-16 17:08:13.618741,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618742
+gtbank_1,User1,Works sometimes,3,12,2026-03-07 17:08:13.618746,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618747
+gtbank_2,User2,Works sometimes,3,2,2026-03-06 17:08:13.618752,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618754
+gtbank_3,User3,Fast and secure,4,0,2026-03-03 17:08:13.618757,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618759
+gtbank_4,User4,Love it,5,4,2026-03-03 17:08:13.618762,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618764
+gtbank_5,User5,Transactions fail,1,0,2026-03-26 17:08:13.618768,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618769
+gtbank_6,User6,Transactions fail,1,12,2026-03-05 17:08:13.618773,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618775
+gtbank_7,User7,Average experience,3,2,2026-03-16 17:08:13.618778,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618779
+gtbank_8,User8,Terrible service,1,3,2026-03-26 17:08:13.618783,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618784
+gtbank_9,User9,Okay app,3,15,2026-03-18 17:08:13.618788,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618789
+gtbank_10,User10,Works sometimes,3,4,2026-03-17 17:08:13.618795,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618796
+gtbank_11,User11,Transactions fail,1,1,2026-03-26 17:08:13.618800,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618802
+gtbank_12,User12,Security issues,1,8,2026-03-13 17:08:13.618805,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618807
+gtbank_13,User13,Basic features,3,10,2026-03-17 17:08:13.618811,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618812
+gtbank_14,User14,Excellent app,4,0,2026-03-17 17:08:13.618816,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618818
+gtbank_15,User15,Transactions fail,1,12,2026-03-14 17:08:13.618821,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618823
+gtbank_16,User16,Great design,4,12,2026-03-19 17:08:13.618826,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618828
+gtbank_17,User17,Security issues,1,5,2026-03-05 17:08:13.618831,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618833
+gtbank_18,User18,Security issues,1,4,2026-03-23 17:08:13.618836,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618838
+gtbank_19,User19,Very slow,1,4,2026-03-25 17:08:13.618842,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618843
+gtbank_20,User20,Transactions fail,1,15,2026-03-17 17:08:13.618849,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618851
+gtbank_21,User21,Okay app,3,6,2026-03-23 17:08:13.618854,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618856
+gtbank_22,User22,Great design,5,11,2026-03-17 17:08:13.618859,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618861
+gtbank_23,User23,Transactions fail,1,9,2026-03-03 17:08:13.618864,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618866
+gtbank_24,User24,Okay app,3,11,2026-03-09 17:08:13.618869,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618871
+gtbank_25,User25,Okay app,3,6,2026-03-09 17:08:13.618874,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618876
+gtbank_26,User26,Best bank app,4,15,2026-03-15 17:08:13.618879,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618881
+gtbank_27,User27,Best bank app,5,13,2026-03-08 17:08:13.618884,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618886
+gtbank_28,User28,Average experience,3,9,2026-03-06 17:08:13.618889,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618891
+gtbank_29,User29,Terrible service,1,2,2026-03-05 17:08:13.618895,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618897
+gtbank_30,User30,Transactions fail,1,6,2026-03-04 17:08:13.618902,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618906
+gtbank_31,User31,Excellent app,4,0,2026-03-08 17:08:13.618912,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618914
+gtbank_32,User32,Okay app,3,0,2026-03-23 17:08:13.618917,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618919
+gtbank_33,User33,Terrible service,2,12,2026-03-18 17:08:13.618922,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618924
+gtbank_34,User34,Works sometimes,3,13,2026-03-11 17:08:13.618927,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618929
+gtbank_35,User35,Transactions fail,1,12,2026-03-10 17:08:13.618932,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618934
+gtbank_36,User36,Fast and secure,4,8,2026-03-26 17:08:13.618937,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618939
+gtbank_37,User37,Works sometimes,3,15,2026-03-25 17:08:13.618942,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618944
+gtbank_38,User38,Love it,5,0,2026-03-09 17:08:13.618947,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618949
+gtbank_39,User39,Transactions fail,2,8,2026-03-13 17:08:13.618952,5.2.1,GTBank,gtbank,Nigeria,2026-03-27 17:08:13.618954
+access_bank_0,User0,Love it,5,11,2026-03-23 17:08:13.618961,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618963
+access_bank_1,User1,App crashes,1,3,2026-03-03 17:08:13.618966,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618968
+access_bank_2,User2,Transactions fail,1,14,2026-03-03 17:08:13.618971,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618973
+access_bank_3,User3,Okay app,3,6,2026-03-16 17:08:13.618976,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618978
+access_bank_4,User4,Basic features,3,1,2026-03-19 17:08:13.618981,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618983
+access_bank_5,User5,Security issues,1,3,2026-03-19 17:08:13.618986,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618988
+access_bank_6,User6,Works sometimes,3,9,2026-03-19 17:08:13.618991,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618992
+access_bank_7,User7,Great design,5,2,2026-03-17 17:08:13.618996,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.618997
+access_bank_8,User8,Okay app,3,10,2026-03-03 17:08:13.619000,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619002
+access_bank_9,User9,App crashes,1,8,2026-03-26 17:08:13.619006,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619008
+access_bank_10,User10,Fast and secure,4,14,2026-03-09 17:08:13.619013,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619015
+access_bank_11,User11,Security issues,1,8,2026-03-26 17:08:13.619018,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619020
+access_bank_12,User12,Okay app,3,8,2026-03-14 17:08:13.619023,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619025
+access_bank_13,User13,Very slow,2,10,2026-03-20 17:08:13.619028,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619029
+access_bank_14,User14,Excellent app,4,7,2026-03-26 17:08:13.619033,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619035
+access_bank_15,User15,Best bank app,5,14,2026-03-11 17:08:13.619038,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619040
+access_bank_16,User16,Best bank app,4,0,2026-03-09 17:08:13.619043,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619045
+access_bank_17,User17,Security issues,2,7,2026-03-08 17:08:13.619048,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619050
+access_bank_18,User18,Excellent app,4,12,2026-03-12 17:08:13.619053,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619056
+access_bank_19,User19,Basic features,3,4,2026-03-11 17:08:13.619060,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619061
+access_bank_20,User20,Excellent app,5,6,2026-03-02 17:08:13.619067,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619069
+access_bank_21,User21,Fast and secure,5,7,2026-03-23 17:08:13.619072,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619074
+access_bank_22,User22,Security issues,2,14,2026-03-12 17:08:13.619077,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619079
+access_bank_23,User23,Fast and secure,5,12,2026-03-23 17:08:13.619085,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619086
+access_bank_24,User24,Best bank app,5,13,2026-03-18 17:08:13.619090,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619092
+access_bank_25,User25,Best bank app,4,6,2026-03-13 17:08:13.619095,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619097
+access_bank_26,User26,Excellent app,5,12,2026-03-13 17:08:13.619100,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619102
+access_bank_27,User27,Fast and secure,5,12,2026-03-10 17:08:13.619105,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619107
+access_bank_28,User28,Works sometimes,3,10,2026-03-18 17:08:13.619110,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619112
+access_bank_29,User29,Fast and secure,5,4,2026-03-02 17:08:13.619116,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619117
+access_bank_30,User30,Best bank app,5,14,2026-03-18 17:08:13.619122,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619124
+access_bank_31,User31,Love it,5,7,2026-03-25 17:08:13.619127,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619129
+access_bank_32,User32,Excellent app,4,1,2026-03-16 17:08:13.619133,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619134
+access_bank_33,User33,Transactions fail,1,3,2026-03-20 17:08:13.619138,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619139
+access_bank_34,User34,Basic features,3,1,2026-03-06 17:08:13.619142,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619144
+access_bank_35,User35,Fast and secure,4,2,2026-03-07 17:08:13.619148,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619149
+access_bank_36,User36,Fast and secure,4,10,2026-03-04 17:08:13.619152,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619154
+access_bank_37,User37,Love it,5,12,2026-03-10 17:08:13.619157,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619159
+access_bank_38,User38,Average experience,3,12,2026-03-09 17:08:13.619162,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619164
+access_bank_39,User39,Terrible service,2,4,2026-03-04 17:08:13.619167,5.2.1,Access Bank,access_bank,Nigeria,2026-03-27 17:08:13.619169
